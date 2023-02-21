@@ -1,5 +1,5 @@
 {
-  "name": "drag-n-drop-api",
+  "name": "drag-n-drop",
   "version": "1.0.0",
   "description": "",
   "main": "dist/app.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fernandotelles/ayo-api.git"
+    "url": "git+https://github.com/fernandotelles/drag-n-drop.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fernandotelles/ayo-api/issues"
+    "url": "https://github.com/fernandotelles/drag-n-drop/issues"
   },
-  "homepage": "https://github.com/fernandotelles/ayo-api#readme",
+  "homepage": "https://github.com/fernandotelles/drag-n-drop#readme",
   "devDependencies": {
     "@types/express": "^4.17.17",
     "@typescript-eslint/eslint-plugin": "^5.52.0",
